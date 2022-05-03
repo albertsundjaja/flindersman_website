@@ -45,6 +45,12 @@ enableRobotsTXT = true
 [markup.goldmark.renderer] 
   unsafe= true
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
+
 [deployment]
 # By default, files are uploaded in an arbitrary order.
 # Files that match the regular expressions in the "Order" list

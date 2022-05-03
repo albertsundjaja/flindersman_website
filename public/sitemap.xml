@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://flindersman.com/tags/bmw-motorsport/</loc>
+    <lastmod>2021-09-18T12:00:00+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://flindersman.com/tags/drift-cat-7/</loc>
+    <lastmod>2021-09-18T12:00:00+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://flindersman.com/</loc>
-    <lastmod>2021-08-22T14:00:00+10:00</lastmod>
+    <lastmod>2021-09-18T12:00:00+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://flindersman.com/tags/puma/</loc>
+    <lastmod>2021-09-18T12:00:00+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://flindersman.com/post/puma-bmw-drift-cat-7/</loc>
+    <lastmod>2021-09-18T12:00:00+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://flindersman.com/tags/sneakers/</loc>
+    <lastmod>2021-09-18T12:00:00+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://flindersman.com/tags/</loc>
+    <lastmod>2021-09-18T12:00:00+10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,10 +52,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://flindersman.com/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://flindersman.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
